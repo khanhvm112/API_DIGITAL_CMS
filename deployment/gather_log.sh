@@ -1,0 +1,1 @@
+more `ls -tr log/general/console_*` | grep "$1" > "$1.log"
